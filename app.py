@@ -6,9 +6,9 @@ from streamlit_chat import message as st_message
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
 
-st.sidebar.title("Chatbot de Medicina Interna")
 st.sidebar.image("UdeA+simplificado-01.png", width=200)
-st.sidebar.write("Interacción entre estudiante y profesor.")
+st.sidebar.title("Chatbot de Medicina Interna")
+st.sidebar.write("Alejandro Hern´andez, MD, MSc")
 
 
 # Verificar que la clave de API se ha cargado
