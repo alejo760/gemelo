@@ -14,3 +14,9 @@ hideStreamlitBanner = true      # Hide the "Made with Streamlit" banner
 
 [ui]
 hideToolbar = true              # Hide the Streamlit menu (hamburger)
+
+# Page settings
+[page]
+title = "UdeA Medical Case Chatbot"     # A catchy and descriptive title
+favicon = "UdeA+simplificado-01.png"    # Use your UdeA logo as favicon (make sure it's a small size like 32x32px)
+
