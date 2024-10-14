@@ -7,7 +7,7 @@ from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
 
 st.sidebar.image("UdeA+simplificado-01.png", width=200)
-st.sidebar.title("Chatbot de Medicina Interna")
+st.sidebar.title("Chatbot Casos Clínicos")
 st.sidebar.write("Entrega Diplomado integración TICs 2024-2") 
 st.sidebar.write("Alejandro Hernández-Arango, MD, MSc")
 
