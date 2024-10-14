@@ -10,7 +10,7 @@ from langchain.schema import SystemMessage, HumanMessage, AIMessage
 # Verificar que la clave de API se ha cargado
 api_key=st.secrets["API_KEY"]
 if not api_key:
-    st.error("La clave de API no está configurada. Por favor, verifica tu archivo .env y su ubicación.")
+    st.error(f"La clave de API no está configurada. {api_key}Por favor, verifica tu archivo .env y su ubicación.")
     st.stop()
 else:
     st.success("Clave de API cargada correctamente.")
