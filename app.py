@@ -5,7 +5,7 @@ import streamlit as st
 from streamlit_chat import message as st_message
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
-st.image("/mnt/data/UdeA+simplificado-01.png", use_column_width=True)
+st.image("UdeA+simplificado-01.png", use_column_width=True)
 
 
 
