@@ -5,8 +5,10 @@ import streamlit as st
 from streamlit_chat import message as st_message
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
-st.image("UdeA+simplificado-01.png", width=200)
 
+st.sidebar.title("Chatbot de Medicina Interna")
+st.sidebar.image("UdeA+simplificado-01.png", width=200)
+st.sidebar.write("Interacción entre estudiante y profesor.")
 
 
 # Verificar que la clave de API se ha cargado
@@ -64,8 +66,7 @@ def chat_with_student(student_input):
 
 # Interfaz de Streamlit
 def main():
-    st.title("Chatbot de Medicina Interna")
-    st.write("Interacción entre estudiante y profesor.")
+
 
     # Mostrar la conversación
     for msg in st.session_state.history:
