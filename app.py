@@ -8,7 +8,7 @@ from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
 
 # Verificar que la clave de API se ha cargado
-api_key=st.secrets.get("API_KEY")
+api_key=st.secrets["API_KEY"]
 if not api_key:
     st.error("La clave de API no está configurada. Por favor, verifica tu archivo .env y su ubicación.")
     st.stop()
