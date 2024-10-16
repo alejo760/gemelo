@@ -18,7 +18,7 @@ st.sidebar.title("Chatbot Casos Clínicos")
 st.sidebar.write("Entrega Diplomado integración TICs 2024-2") 
 st.sidebar.write("Alejandro Hernández-Arango, MD, MSc")
 
-
+st.info('Todos los casos son derivados de casos clinicos reales totalmente anonimizados y los datos del paciente estan protegidos', icon="ℹ️")
 # Verificar que la clave de API se ha cargado
 api_key= st.secrets.API_KEY
 # Inicializar el cliente de Groq
