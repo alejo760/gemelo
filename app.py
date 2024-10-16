@@ -31,7 +31,7 @@ Eres un profesor de Medicina Interna. Vas a presentar un caso clínico a un estu
 clinical_case = """
 Paciente masculino de 92 años, viudo, con primaria incompleta, vive solo en zona rural. Ingresó por presentar dolor intenso en la pierna derecha. Tiene antecedentes de hipertensión arterial, dislipidemia mixta, enfermedad venosa crónica (CEAP 6), hipoacusia bilateral grave, prediabetes, osteoporosis grave con fracturas vertebrales recientes y síndrome de caídas recurrentes.
 
-Desde hace 15 años presenta prurito crónico, que empeoró en los últimos 7 meses, con aumento de lesiones eritematosas generalizadas en piel en forma de placas. Ha sido hospitalizado varias veces por este motivo. Se le realizaron biopsias de piel que no confirmaron inicialmente micosis fungoide, pero luego se determinó que cumplía criterios clínicos y algunos histopatológicos para este diagnóstico.
+Desde hace 15 años presenta prurito crónico, que empeoró en los últimos 7 meses, con aumento de lesiones eritematosas generalizadas en piel en forma de placas. Ha sido hospitalizado varias veces por este motivo. 
 
 Recientemente, desarrolló fiebre, edema en extremidades inferiores y lesiones descamativas en la pierna derecha con flictenas que supuran material seroso, además de úlceras superficiales dolorosas. Decidió no usar esteroide tópico indicado y manejó el dolor con naproxeno a demanda.
 
