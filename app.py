@@ -5,6 +5,14 @@ import streamlit as st
 from streamlit_chat import message as st_message
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
+# Configurar la página
+st.set_page_config(
+    page_title="Chatbot Casos Clínicos",
+    page_icon="🩺",
+    layout="centered",
+    initial_sidebar_state="auto",
+    description="Un chatbot para discutir casos clínicos - UdeA."
+)
 
 st.sidebar.image("UdeA+simplificado-01.png", width=200)
 st.sidebar.title("Chatbot Casos Clínicos")
