@@ -11,7 +11,6 @@ st.set_page_config(
     page_icon="🩺",
     layout="centered",
     initial_sidebar_state="auto",
-    description="Un chatbot para discutir casos clínicos - UdeA."
 )
 
 st.sidebar.image("UdeA+simplificado-01.png", width=200)
