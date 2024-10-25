@@ -36,17 +36,19 @@ Eres un profesor de Medicina Interna. Vas a presentar un caso clínico a un estu
 
 # Caso clínico detallado
 clinical_case = """
-Paciente masculino de 92 años, viudo, con primaria incompleta, vive solo en zona rural. Ingresó por presentar dolor intenso en la pierna derecha. Tiene antecedentes de hipertensión arterial, dislipidemia mixta, enfermedad venosa crónica (CEAP 6), hipoacusia bilateral grave, prediabetes, osteoporosis grave con fracturas vertebrales recientes y síndrome de caídas recurrentes.
+Paciente masculino de 52 años, casado, con secundaria completa, vive en zona urbana. Se está evaluando para ser candidato a trasplante renal. Tiene antecedentes de hipertensión arterial mal controlada, enfermedad renal crónica estadio 5 en terapia de reemplazo renal secundaria a glomerulonefritis, dislipidemia mixta, diabetes mellitus tipo 2 de 10 años de evolución y obesidad (IMC 32). Además, refiere episodios ocasionales de apnea del sueño sin tratamiento formal.
 
-Desde hace 15 años presenta prurito crónico, que empeoró en los últimos 7 meses, con aumento de lesiones eritematosas generalizadas en piel en forma de placas. Ha sido hospitalizado varias veces por este motivo. 
+Desde hace 5 meses, el paciente ha presentado un deterioro progresivo de su función renal, con edemas en extremidades inferiores, fatiga crónica, disnea de pequeños esfuerzos y episodios de hipertensión refractaria. Recientemente, ha comenzado con prurito urémico generalizado que empeora durante la noche, lo que afecta su calidad de vida.
 
-Recientemente, desarrolló fiebre, edema en extremidades inferiores y lesiones descamativas en la pierna derecha con flictenas que supuran material seroso, además de úlceras superficiales dolorosas. Decidió no usar esteroide tópico indicado y manejó el dolor con naproxeno a demanda.
+Ha estado hospitalizado previamente por descompensaciones hipertensivas y control insuficiente de la sobrecarga de volumen. En su último ingreso hospitalario, fue necesario iniciar diálisis peritoneal como tratamiento de urgencia.
 
-En el examen físico actual, presenta prurito generalizado, lesiones descamativas en extremidades inferiores, tórax, abdomen y espalda. Tiene una úlcera en tercio distal de la pierna derecha de 12x8 cm, con bordes irregulares y supuración. Laboratorios muestran linfopenia y eosinofilia. No se han identificado signos de infección en las úlceras.
+En el examen físico actual, presenta edemas en ambos miembros inferiores con fóvea hasta rodillas, prurito generalizado sin lesiones visibles, palidez cutánea y mucosa, y signos de sobrecarga de volumen con estertores bibasales. Los laboratorios recientes muestran anemia normocítica normocrómica, aumento de creatinina y urea, hiperfosfatemia, e hiperparatiroidismo secundario. Está en tratamiento con quelantes de fosfato, antihipertensivos (incluyendo un IECA), y manejo conservador de la diálisis peritoneal.
 
-Se encuentra en espera de nueva biopsia de piel y doppler venoso de miembros inferiores. Actualmente en manejo con antihistamínicos, betametasona tópica y analgésicos.
+Se encuentra en evaluación pretrasplante y pendiente de la realización de un ecocardiograma y estudios de compatibilidad inmunológica.
 
 ¿Cuáles serían tus próximos pasos en el abordaje diagnóstico y terapéutico de este paciente?
+
+
 """
 
 # Inicializar el historial en la sesión
