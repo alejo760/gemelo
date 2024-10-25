@@ -26,4 +26,6 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 Para más información, puedes contactar a los responsables del laboratorio en la Facultad de Medicina de la UdeA.
 
+alejandro.hernandeza@udea.edu.co
+
 ¡Gracias por tu interés en nuestro proyecto! 🚀
