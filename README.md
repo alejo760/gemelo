@@ -4,7 +4,7 @@ Este proyecto es parte del laboratorio de aprendizaje de máquina de la Facultad
 
 ## Descripción
 
-Este repositorio contiene el código y los recursos necesarios para el desarrollo de modelos de aprendizaje de máquina aplicados en el ámbito médico. 
+Este repositorio contiene el código y los recursos necesarios de un prototipo de chatbot modelos de aprendizaje de máquina generativos aplicados en el ámbito de educación médica 
 
 ## Estructura del Proyecto
 
